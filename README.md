@@ -5,6 +5,10 @@ Fantasy-Premier-League
 
 A FPL library that gets all the basic stats for each player, gw-specific data for each player and season history of each player
 
+### Acknowledgement
+
++ speeder1987 for providing 2018/19 fixtures.csv file
+
 ## FAQ
 
 ### Data Structure
@@ -46,6 +50,10 @@ python teams_scraper.py <team_id>
 This will create a new folder called "team_<team_id>_data18-19" with individual files of all the important data
 
 ## Notable Usages of this Repository
+
++ [Captaincy Choice GW4 2019-20 post by Matthew Barnfield](https://mbarnfield.github.io/fpl.html)
+
++ [Building a dataset for Fantasy Premier League analysis by djfinnoy](http://www.didjfin.no/blog/fpl/fantasy-premier-league-data/)
 
 + [Value in FPL 2019-20 Report by Who Got The Assist?](https://whogottheassist.com/value-in-fpl-2019-20-report/)
 
